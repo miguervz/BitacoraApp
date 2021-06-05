@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BitacoraApp</string>
+    <string name="idCuaderno">ID</string>
+    <string name="modificacionCuaderno">Modificación Cuaderno</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnAlta">Alta</string>
+    <string name="altaCuaderno">Alta Cuaderno</string>
+    <string name="nuevoApunte">Nuevo Apunte</string>
+    <string name="altaApunte">Alta Apunte</string>
+    <string name="modificacionApuntes">Modificación Apunte</string>
+    <string name="nuevoBitacora">Nombre Cuaderno</string>
+
+</resources>
